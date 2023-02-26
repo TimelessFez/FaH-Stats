@@ -6,5 +6,5 @@ Old program I wrote for checking Folding@Home stats
 - json
 - os
 
-# API
+# Folding@Home API
 Obtained from https://api2.foldingathome.org/user/
