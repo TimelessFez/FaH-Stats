@@ -2,6 +2,7 @@
 Old program I wrote for checking Folding@Home stats
 
 # Modules Used
+(These should already be included with python)
 - urllib.request
 - json
 - os
